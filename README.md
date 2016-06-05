@@ -9,6 +9,8 @@ Chinese
 
 > 放心，事实上并不覆盖你的U盘上的任何内容，这个动作仅仅是在`efi`下创建目录`Boot`，且解压UEFI启动所需的文件`bootx64.efi`。
 
+请参阅：http://bbs.wuyou.net/forum.php?mod=viewthread&tid=303679
+
 # UEFI installation for Windows 7
 
 English
@@ -18,4 +20,6 @@ Patch it! To make your Windows 7 installation flash drive support UEFI installat
 How to use it? Click the button *Clone or download*, download a zip file. Unzip it under the root of your Windows 7 installation flash drive, following the prompts to overwrite folder `efi`.
 
 >Please set your mind at rest. Actually, it won't overwrite any files of your flash drive. It just create a directory named `Boot` under `efi`, and unzip file `bootx64.efi` that UEFI startup needs.
+
+Please refer: http://bbs.wuyou.net/forum.php?mod=viewthread&tid=303679
 
